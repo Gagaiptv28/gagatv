@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="",kino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:network-caching=5000
+https://ia600401.us.archive.org/13/items/a-001-06191951-c-005-2/A001_06191951_C005%202.mov
